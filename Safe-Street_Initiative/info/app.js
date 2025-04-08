@@ -1,5 +1,5 @@
 const safeStreetsInitiative = {
-    title: "Safe-Streets Initiative",
+    title: "Mokoena's Safe-Streets Initiative",
     logo: {
         src: "logo.png",
         alt: "Logo",
